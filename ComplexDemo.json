@@ -1,0 +1,47 @@
+{
+  "Students Data": [
+    {
+      "first name": "zahid",
+      "last name": "hasan",
+      "age": 30,
+      "cgpa": 3.4,
+      "isRegister": true,
+      "languages": [
+        "bangla",
+        "english",
+        "hindi"
+      ],
+      "friends": [
+        {
+          "name": "sabuz",
+          "age": 28
+        },
+        {
+          "name": "jahanur",
+          "age": 30
+        }
+      ]
+    },
+    {
+      "first name": "md",
+      "last name": "fahim",
+      "age": 30,
+      "cgpa": 3.1,
+      "isRegister": true,
+      "languages": [
+        "bangla",
+        "english"
+      ],
+      "friends": [
+        {
+          "name": "sabuz",
+          "age": 28
+        },
+        {
+          "name": "jahanur",
+          "age": 30
+        }
+      ]
+    }
+  ]
+}
